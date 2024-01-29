@@ -1,0 +1,13 @@
+airliner
+awcas
+biplane
+deltawing
+fighter
+helicopter
+light
+propeller
+rocket
+seaplane
+shuttle
+transport
+uav
